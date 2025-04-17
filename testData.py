@@ -5,7 +5,7 @@ fileName = "employees.csv"
 fields = ['Employee ID','First Name','Last Name','Shift','Hours','Department','Sunday Available',
           'Monday Available','Tuesday Available','Wednesday Available', 'Thursday Available',
            'Friday Available', 'Saturday Available' ]
-rows = [  ['001','fName1','lName1','1', '40', 'Customer Service', 'True','True','True','True','True','True','True'],
+rows = [  ['001','fName1','lName1','1', '40', 'Customer Service', 'True','True','True','True','True','False','True'],
           ['002','fName1','lName1','1', '40', 'Customer Service', 'True','True','True','True','True','True','True'],
           ['003','fName1','lName1','1', '40', 'Customer Service', 'True','True','True','True','True','True','True'],
           ['004','fName1','lName1','1', '40', 'Customer Service', 'True','True','True','True','True','True','True'],
@@ -26,6 +26,13 @@ rows = [  ['001','fName1','lName1','1', '40', 'Customer Service', 'True','True',
           ['019','fName1','lName1','3', '40', 'Grocery', 'True','True','True','True','True','True','True'],
           ['020','fName1','lName1','3', '40', 'Grocery', 'False','True','True','True','True','True','True'],
         ]
+with open(fileName, 'w') as csvfile:
+    # creating a csv writer object
+    csvwriter = csv.writer(csvfile)
+    # writing the fields
+    csvwriter.writerow(fields)
+    # writing the data rows
+    csvwriter.writerows(rows)
 
 # reading csv file
 with open(fileName, 'r') as csvfile:
