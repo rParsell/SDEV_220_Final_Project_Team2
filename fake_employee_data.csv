@@ -1,0 +1,51 @@
+Employee,Shift,Department,Hours
+Person1,2nd Shift,Grocery,1200 - 2100
+Person2,2nd Shift,Grocery,1200 - 2100
+Person3,1st Shift,Customer Service,0600 - 1500
+Person4,1st Shift,Grocery,0600 - 1500
+Person5,3rd Shift,Customer Service,1400-2300
+Person6,1st Shift,Grocery,0600 - 1500
+Person7,1st Shift,Meat,0600 - 1500
+Person8,3rd Shift,Grocery,1400-2300
+Person9,1st Shift,Customer Service,0600 - 1500
+Person10,1st Shift,Meat,0600 - 1500
+Person11,3rd Shift,Customer Service,1400-2300
+Person12,1st Shift,Grocery,0600 - 1500
+Person13,1st Shift,Meat,0600 - 1500
+Person14,2nd Shift,Grocery,1200 - 2100
+Person15,2nd Shift,Meat,1200 - 2100
+Person16,2nd Shift,Meat,1200 - 2100
+Person17,2nd Shift,Meat,1200 - 2100
+Person18,2nd Shift,Grocery,1200 - 2100
+Person19,3rd Shift,Customer Service,1400-2300
+Person20,3rd Shift,Meat,1400-2300
+Person21,1st Shift,Customer Service,0600 - 1500
+Person22,3rd Shift,Meat,1400-2300
+Person23,3rd Shift,Meat,1400-2300
+Person24,2nd Shift,Grocery,1200 - 2100
+Person25,2nd Shift,Meat,1200 - 2100
+Person26,2nd Shift,Meat,1200 - 2100
+Person27,1st Shift,Grocery,0600 - 1500
+Person28,3rd Shift,Grocery,1400-2300
+Person29,2nd Shift,Customer Service,1200 - 2100
+Person30,3rd Shift,Customer Service,1400-2300
+Person31,3rd Shift,Grocery,1400-2300
+Person32,3rd Shift,Customer Service,1400-2300
+Person33,1st Shift,Meat,0600 - 1500
+Person34,1st Shift,Customer Service,0600 - 1500
+Person35,1st Shift,Meat,0600 - 1500
+Person36,1st Shift,Meat,0600 - 1500
+Person37,2nd Shift,Customer Service,1200 - 2100
+Person38,3rd Shift,Grocery,1400-2300
+Person39,3rd Shift,Grocery,1400-2300
+Person40,2nd Shift,Meat,1200 - 2100
+Person41,3rd Shift,Meat,1400-2300
+Person42,1st Shift,Meat,0600 - 1500
+Person43,2nd Shift,Meat,1200 - 2100
+Person44,3rd Shift,Meat,1400-2300
+Person45,2nd Shift,Meat,1200 - 2100
+Person46,2nd Shift,Meat,1200 - 2100
+Person47,1st Shift,Meat,0600 - 1500
+Person48,2nd Shift,Customer Service,1200 - 2100
+Person49,2nd Shift,Customer Service,1200 - 2100
+Person50,3rd Shift,Meat,1400-2300
