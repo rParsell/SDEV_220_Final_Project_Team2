@@ -1,6 +1,6 @@
 import csv
 
-with open('employees.csv', 'r') as file:
+with open('fake_employee_data.csv', 'r') as file:
     csv_reader = csv.reader(file)
     for row in csv_reader:
         for col in row:
