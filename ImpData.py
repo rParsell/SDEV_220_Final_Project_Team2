@@ -8,3 +8,5 @@ def impData(file):
             for col in row:
                 rows.append(col)
     return(rows)
+
+print(impData('fake_employee_data.csv'))
